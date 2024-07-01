@@ -4,6 +4,7 @@ Script to binarize images
 ## Flags:
 
 -f file list you want to proccess
+
 -c apply close operation (dilation + erosion)
 
 ## Execution example:
